@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Demi! ☆༉
+
+I'm
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bydemihu&layout=donut)](https://github.com/bydemihu/github-readme-stats)
 
 <!--
 **bydemihu/bydemihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
