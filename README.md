@@ -1,6 +1,6 @@
 ## Hi, I'm Demi! ☆༉
 
-I'm a current student at UT Austin studying design and computer science. You can find me drawing, developing cool things, or dreaming up fantasy worlds over at [my portfolio](https://demi.hu/)!
+I'm a current MS Design Tech student at Cornell. You can find me drawing, developing cool things, or dreaming up fantasy worlds over at [my portfolio](https://demi.hu/)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bydemihu&layout=donut)](https://github.com/bydemihu/github-readme-stats)
 
